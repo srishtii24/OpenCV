@@ -1,6 +1,6 @@
 # OpenCV
 
-##About OpenCV
+## About OpenCV
 OpenCv stands for OPen Computer Vision. With help of OpenCV, we can write Intelligent code to control our cameras.
 
 
