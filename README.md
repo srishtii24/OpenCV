@@ -16,4 +16,4 @@ If without extra modules:
 In the shell, type
   - python
   - import cv2
-  - print (cv2.________version________)
+  - print (cv2._ _ version _ _)
